@@ -1,0 +1,22 @@
+{
+  "name": "@omerbatla/project01-numberguessing",
+  "version": "2.0.1",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "project01-numberguessing": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.0.0"
+  },
+  "devDependencies": {},
+  "description": "Fun number guessing game"
+}
